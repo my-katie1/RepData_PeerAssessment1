@@ -93,7 +93,7 @@ avg_step[avg_step$MeanOfSteps == max(avg_step$MeanOfSteps), ]
 
 The 835-th 5-minute interval contains the maximum number of steps.
 
-## Imputing missing values
+## Inputing missing values
 Note that there are a number of days/intervals where there are missing values (coded as NA). The presence of missing days may introduce bias into some calculations or summaries of the data.
 
 1. Calculate and report the total number of missing values in the dataset (i.e. the total number of rows with NAs).
